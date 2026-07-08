@@ -1,0 +1,26 @@
+{
+  "name": "eventstripe",
+  "owner": {
+    "name": "Eventstripe",
+    "email": "ceo@ltvcac.agency",
+    "url": "https://eventstripe.com"
+  },
+  "metadata": {
+    "description": "Official Eventstripe plugin marketplace — run your event ticketing from Claude",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "eventstripe",
+      "source": "./plugins/eventstripe",
+      "description": "Run your entire event ticketing from chat: create events, sell tickets, pull sales reports and manage payouts on Eventstripe (Bali/Indonesia, IDR). Bundles the Eventstripe MCP connector and an events skill.",
+      "author": {
+        "name": "Eventstripe",
+        "email": "ceo@ltvcac.agency",
+        "url": "https://eventstripe.com"
+      },
+      "homepage": "https://eventstripe.com",
+      "keywords": ["events", "ticketing", "mcp", "indonesia", "bali"]
+    }
+  ]
+}

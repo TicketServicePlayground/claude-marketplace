@@ -1,0 +1,12 @@
+{
+  "name": "eventstripe",
+  "version": "1.1.0",
+  "description": "Run your entire event ticketing from chat: create events, sell tickets, pull sales reports and manage payouts on Eventstripe (Bali/Indonesia, IDR) — via the Eventstripe MCP connector.",
+  "author": {
+    "name": "Eventstripe",
+    "email": "ceo@ltvcac.agency",
+    "url": "https://eventstripe.com"
+  },
+  "homepage": "https://eventstripe.com",
+  "keywords": ["events", "ticketing", "mcp", "indonesia", "bali"]
+}

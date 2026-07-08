@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "eventstripe": {
+      "type": "http",
+      "url": "https://connect.eventstripe.com/mcp"
+    }
+  }
+}
