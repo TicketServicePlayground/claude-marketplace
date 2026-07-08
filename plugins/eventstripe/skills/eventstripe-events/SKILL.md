@@ -39,6 +39,13 @@ account should end up with BOTH a complete organizer page and a complete event p
 
 ### 1b. Content blocks — go through EVERY one, never skip silently
 
+**Thin brief?** If the user gave too little for a description and has no photo/video links,
+don't stall — propose 3-5 event theme directions and let them pick one, e.g.: hippie/boho
+sunset, Star Wars night, Vegas-style bachelor party, Project X house party, tropical disco,
+retro 80s/90s, masquerade, neon rave. The chosen theme then drives everything below: the
+description draft, gallery visuals, the YouTube video pick and the banner style — so one
+answer fills the whole page consistently.
+
 These are the blocks that otherwise ship empty. For each, ask AND bring a concrete auto-fill
 proposal the user can accept, tweak, or consciously skip — not an abstract "want to add X?":
 
